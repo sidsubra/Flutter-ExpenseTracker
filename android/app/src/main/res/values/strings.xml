@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iam_portal_url">https://accounts.zohoportal.in</string>
+    <string name="c_id">50018276431.8NXURXC52N0FL9MG1B7ENPV40YM3FV</string>
+    <string name="c_secret">e7db29ff90ff646f36931272e4977320527ab012fe</string>
+    <string name="c_portal">50018276431</string>
+    <string name="redir_url">testaccountc6.money-manager.portal.sdk://</string>
+</resources>
